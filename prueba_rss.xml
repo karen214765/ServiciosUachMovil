@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="0.91">
+
+
+<channel>
+<title>Euroresidentes</title>
+<link>http://www.euroresidentes.com</link>
+<description>servicios residentes europeos</description>
+<language>es-ES</language>
+
+<image>
+<title>Spain</title>
+<url>http://www.euroresidentes.com/logo.gif</url>
+<link>http://www.euroresidentes.com</link>
+<width>100</width>
+<height>12</height>
+</image>
+
+<item>
+<title>Alimentación RSS con FeedRoll</title>
+<link>http://www.euroresidentes.com/Diversion/Internet/alimentacion_rss_Feedroll.htm</link>
+<description>
+Paso a paso describir como generar código JavaScript para insertar recursos RSS en una página web a través de FeedRoll. Mi email: euroresi@euroresidentes.com. By Euroresidentes, Thu, 26 Feb 2004
+</description>
+</item>
+
+
+</channel>
+</rss>
